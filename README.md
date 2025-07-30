@@ -4,6 +4,17 @@
 *Warcraft III*. While inspired by the traditional INI format, BNI introduces relaxed syntax rules and game-specific
 conventions tailored for structured game data.
 
+## Tools
+
+Related tools that support or build on the BNI format:
+
+- [tree-sitter-bni](https://github.com/WarRaft/tree-sitter-bni) — a Tree-sitter grammar for the BNI format, enabling
+  syntax-aware parsing, highlighting, and editor support.
+- [JASS-Tree-sitter-Rust](https://github.com/WarRaft/JASS-Tree-sitter-Rust) — a standalone binary providing
+  Tree-sitter-powered language support for JASS and BNI via LSP, integrated with VSCode and usable independently.
+
+These tools are maintained in separate repositories and can be used independently or together.
+
 ## Key Features
 
 - Section headers using `[SectionName]` syntax.
@@ -96,13 +107,6 @@ unit="Orc",100,strong,visible
 - Provide Tree-sitter and other parser implementations
 - Build tools for linting, formatting, and transformation
 - Serve as reference for modding tools and editors
-
-## Status
-
-Actively maintained. Contributions welcome!
-
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WarRaft/BNI/refs/heads/main/preview/logo.png" alt=""/>
