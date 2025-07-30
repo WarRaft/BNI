@@ -109,5 +109,5 @@ unit="Orc",100,strong,visible
 - Serve as reference for modding tools and editors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WarRaft/BNI/refs/heads/main/preview/logo.png?1" alt=""/>
+  <img src="https://raw.githubusercontent.com/WarRaft/BNI/refs/heads/main/preview/logo.png?6" alt=""/>
 </p>
