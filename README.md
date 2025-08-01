@@ -1,3 +1,5 @@
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/CNeQmXAgVq)](https://discord.gg/CNeQmXAgVq)
+
 # BNI Format Specification
 
 **BNI (Blizzard Notation INI)** is a strictly line-based configuration format used in classic Blizzard games such as
